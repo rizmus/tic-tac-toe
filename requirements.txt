@@ -1,0 +1,4 @@
+future==0.18.2
+prettytable==3.4.1
+tic-tac-toe==0.1.0
+wcwidth==0.2.5
